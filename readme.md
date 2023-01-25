@@ -1,7 +1,4 @@
 # Ten3Maths
-Developers: [Tessa D'Souza](https://www.linkedin.com/in/tessa-dsouza/), [Daniel Robb](https://www.linkedin.com/in/daniel-r-055a20211/)
-
-Developers Emeritus: [Catherine Bell](https://www.linkedin.com/in/catherine-bell-4aa324260/), [Jared Winkens](https://www.linkedin.com/in/jared-winkens-68b764237/)
 
 ## Introduction
 The TEN3Maths app is meant to provide mathematics practice problems to students in Kindergarten through Grade 5 on many different Android devices and browsers.
@@ -160,3 +157,10 @@ To give more information about a student's progress over an entire sessions, it 
 | *goes in this area*| S: 6    | Q: 20   |
 
 It represents the count of correct answers, incorrect answers, skipped questions, and total questions. It's attached to the right of the current pictorial progress box to communicate that it's a part of the overall session performance data.
+
+## Information
+This version of TEN3Maths was developed by students at Taylor University on behalf of TEN3. All materials are property of TEN3.
+
+Developers: [Tessa D'Souza](https://www.linkedin.com/in/tessa-dsouza/), [Daniel Robb](https://www.linkedin.com/in/daniel-r-055a20211/)
+
+Developers Emeritus: [Catherine Bell](https://www.linkedin.com/in/catherine-bell-4aa324260/), [Jared Winkens](https://www.linkedin.com/in/jared-winkens-68b764237/)

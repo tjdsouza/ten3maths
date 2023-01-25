@@ -36,7 +36,7 @@ Here is how to move the `TEN3Maths.apk` file onto your Android device.
 
 ### iOS
 
-For an iOS vrsion, we used [Cordova](https://cordova.apache.org/) to create an iOS app.
+For an iOS version, we used [Cordova](https://cordova.apache.org/) to create an iOS app.
 
 On a Mac with Xcode, run the following:
 ```

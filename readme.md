@@ -21,12 +21,12 @@ Here is how to move the `TEN3Maths.apk` file onto your Android device.
 2. Once the `.apk` file is on your computer, you can connect your Android device to the computer using a charging cord. 
 3. You may need to enable File Transferring on your device. Here's how:
     - Drag down from the top of the screen, to where you would see any notifications you have.
-    - There should be a notification at the bottom that says something like "Chargin this device via USB." Tap on this twice, so it takes you to More Options.
+    - There should be a notification at the bottom that says something like "Charging this device via USB." Tap on this twice, so it takes you to More Options.
     - Under the "Use USB for" section, select "File transfer / Android Auto". This will allow you to access the files on your Android device from your connected computer.
 4. You should be able to open a window on your computer to access the device's files. On the computer, find your connected Android device's name in your file browser and open it. Open the folder called `Downloads` (you may need to open a folder called `DCIM` first).
 5. Drag the `.apk` file from your computer into the Downloads folder of the device. 
 5. Once the `.apk` file is transferred, you can disconnect your device from the computer.
-6. Open your device's Files program, and go to the Downloads folder.
+6. Open your device's Files program and go to the Downloads folder.
 7. The `TEN3Maths.apk` file should be at the top. You can tap on it to begin installing the app.
 8. Your device will probably ask you if you want to install the app. Tap "Install".
 9. Your device may stop you with a message that says something like "For your security, your phone currently isn't allowed to install unknown apps from this source. You can change this in Settings." This is good! You should never install an app from someone you don't trust. To install our Maths app, you can tap "Settings". This will take you to a page which asks if you want to "Allow from this source." Tap on the toggle switch on the right, and it will allow you to install TEN3's Maths app. (If it does not prompt you to install the app immediately, you can go back to your Downloads folder and tap `TEN3Maths.apk`, and it should restart the installation.)

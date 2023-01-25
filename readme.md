@@ -5,28 +5,6 @@ The TEN3Maths app is meant to provide mathematics practice problems to students 
 
 Learn more about TEN3 and the educational work they do at [ten3.org](https://owls.technology:9213/JSPWiki/).
 
-## Grade-Level Notes
-On the starting page, the app prompts the user to select a grade level, then redirects them to choose an operation (+, -, ×, or ÷) before starting the game. At any point during the game, the user can change grades by returning to the home screen using the top left corner, or change operations by clicking the operations menu in the top right corner
-
-The following grade-level expectations are based on Singaporean research of mathematics for primary school-aged children. Keep in mind that some problems will be easy enough for a student to calculate mentally, but others might be difficult enough that a student would want to write, draw, or use physical objects to reason throught the problem. We recommend having students work until they have answered 7-8 of the last 10 problems correctly.
-
-### Kindergarten
-Kindergarteners focus on learning how to "make" and "break" the number 10 through addition and subtraction problems. The answer should never be more than 11, which helps them understand how 10, and every number under it, combine to form other numbers.
-
-Additionally, kindergarten should use 10-frames to show the numbers visually, which helps students understand the relationships between different numbers. This is not yet implemented, but there are some notes in the **Pictorial Mode** section of this document.
-
-### Grade 1
-In Grade 1, students add and subtract numbers up to 40. This allows them to work with multiple place values without exceeding their readiness. 
-### Grade 2
-In Grade 2, students can add and subtract sums up to 1001, introducing them to three-digit numbers. They do *not* yet work with negative numbers, and they are still restricted to addition and subtraction.
-### Grade 3
-In Grade 3, students use the same addition and subtraction settings as Grade 2, but are also introduced to multiplication and division. Multiplication and division equations will not have any numbers greater than 196 (the square of 14). It is also developmentally appropriate for Grade 3 students to work with addition and subtraction of fractions, but we have not implemented features for that into the app.
-### Grade 4
-Grade 4 is functionally the same as Grade 3, but multiplication and division goes up to 1024 (the square of 32). It would be developmentally appropriate to introduce decimals (as small as 0.01) and to multiply and divide fractions, but we have not implemented that as a feature at this point.
-### Grade 5
-In Grade 5, students are capable of interacting with negative sums, so they have access to addition and subtraction from -1001 to 1001. Additionally, they can multiply and divide positive numbers up to 1024. It would be developmentally appropriate to perform operations on both fractions and decimals, but this is not implemented currently.
-
-
 ## End User Installation
 
 ### Internet
@@ -75,6 +53,28 @@ $ cordova run browser
 This will bring up the app in an iOS simulator. From Xcode, install the app on any iOS device you want.
 
 Unfortunately, while Apple does offer free developer licenses to non-profits with 501c3 status, and allows users to [deploy an app](https://support.apple.com/guide/deployment/distribute-proprietary-in-house-apps-depce7cefc4d/web) to users without putting it in the App Store, the stringent developer certificate authentication process prevents apps developed in the USA on non-profit or internal-use licenses to be deployed in Africa. As it stands now, in order to deploy the app in Africa, the Cordova setup process will have to be replicated with the source code and deployed locally in each new country.
+
+
+## Grade-Level Notes
+On the starting page, the app prompts the user to select a grade level, then redirects them to choose an operation (+, -, ×, or ÷) before starting the game. At any point during the game, the user can change grades by returning to the home screen using the top left corner, or change operations by clicking the operations menu in the top right corner
+
+The following grade-level expectations are based on Singaporean research of mathematics for primary school-aged children. Keep in mind that some problems will be easy enough for a student to calculate mentally, but others might be difficult enough that a student would want to write, draw, or use physical objects to reason throught the problem. We recommend having students work until they have answered 7-8 of the last 10 problems correctly.
+
+### Kindergarten
+Kindergarteners focus on learning how to "make" and "break" the number 10 through addition and subtraction problems. The answer should never be more than 11, which helps them understand how 10, and every number under it, combine to form other numbers.
+
+Additionally, kindergarten should use 10-frames to show the numbers visually, which helps students understand the relationships between different numbers. This is not yet implemented, but there are some notes in the **Pictorial Mode** section of this document.
+
+### Grade 1
+In Grade 1, students add and subtract numbers up to 40. This allows them to work with multiple place values without exceeding their readiness. 
+### Grade 2
+In Grade 2, students can add and subtract sums up to 1001, introducing them to three-digit numbers. They do *not* yet work with negative numbers, and they are still restricted to addition and subtraction.
+### Grade 3
+In Grade 3, students use the same addition and subtraction settings as Grade 2, but are also introduced to multiplication and division. Multiplication and division equations will not have any numbers greater than 196 (the square of 14). It is also developmentally appropriate for Grade 3 students to work with addition and subtraction of fractions, but we have not implemented features for that into the app.
+### Grade 4
+Grade 4 is functionally the same as Grade 3, but multiplication and division goes up to 1024 (the square of 32). It would be developmentally appropriate to introduce decimals (as small as 0.01) and to multiply and divide fractions, but we have not implemented that as a feature at this point.
+### Grade 5
+In Grade 5, students are capable of interacting with negative sums, so they have access to addition and subtraction from -1001 to 1001. Additionally, they can multiply and divide positive numbers up to 1024. It would be developmentally appropriate to perform operations on both fractions and decimals, but this is not implemented currently.
 
 
 

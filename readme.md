@@ -4,7 +4,9 @@ Developers: [Tessa D'Souza](https://www.linkedin.com/in/tessa-dsouza/), [Daniel 
 Developers Emeritus: [Catherine Bell](https://www.linkedin.com/in/catherine-bell-4aa324260/), [Jared Winkens](https://www.linkedin.com/in/jared-winkens-68b764237/)
 
 ## Introduction
-The TEN3Maths app is meant to provide mathematics practice problems to students in Kindergarten through Grade 5 on many different Android devices and browsers. Learn more about TEN3 and the educational work they do at [ten3.org](https://owls.technology:9213/JSPWiki/).
+The TEN3Maths app is meant to provide mathematics practice problems to students in Kindergarten through Grade 5 on many different Android devices and browsers.
+
+Learn more about TEN3 and the educational work they do at [ten3.org](https://owls.technology:9213/JSPWiki/).
 
 ## Grade-Level Notes
 On the starting page, the app prompts the user to select a grade level, then redirects them to choose an operation (+, -, ×, or ÷) before starting the game. At any point during the game, the user can change grades by returning to the home screen using the top left corner, or change operations by clicking the operations menu in the top right corner
@@ -30,16 +32,11 @@ In Grade 5, students are capable of interacting with negative sums, so they have
 
 ## End User Installation
 
-
-**DJR add link or delete**
 ### Internet
-Open the source code hosted on ten3.org and play in the browser by clicking [here]. To start a new session (reset the game), simply open the link again.
+If you have a stable internet connection, play in the browser by clicking [here](https://tjdsouza.github.io/ten3maths/index.html). To start a new session (reset the game), simply open the link again.
 
 ### Offline Browser
-To use from a PC Offline, download the zip file of the most recent version:
-**DJR correct this**
-[link to zip file download]
-Unpack the zip file and open "index.html" in your browser. To reset the session data, simply reopen index.html.
+To use from a PC Offline, pull this repository and open "index.html" in your browser. To reset the session data, simply reopen index.html.
 
 ### Android
 From a computer or over the internet, move the APK to the downloads file, then open it to install and launch the mobile application.

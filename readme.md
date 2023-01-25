@@ -4,7 +4,7 @@ Developers: [Tessa D'Souza](https://www.linkedin.com/in/tessa-dsouza/), [Daniel 
 Developers Emeritus: [Catherine Bell](https://www.linkedin.com/in/catherine-bell-4aa324260/), [Jared Winkens](https://www.linkedin.com/in/jared-winkens-68b764237/)
 
 ## Introduction
-The TEN3Maths app is meant to provide mathematics practice problems to students in Kindergarten through Grade 5 on many different Android devices and browsers. 
+The TEN3Maths app is meant to provide mathematics practice problems to students in Kindergarten through Grade 5 on many different Android devices and browsers. Learn more about TEN3 and the educational work they do at [ten3.org](https://owls.technology:9213/JSPWiki/).
 
 ## Grade-Level Notes
 On the starting page, the app prompts the user to select a grade level, then redirects them to choose an operation (+, -, ×, or ÷) before starting the game. At any point during the game, the user can change grades by returning to the home screen using the top left corner, or change operations by clicking the operations menu in the top right corner

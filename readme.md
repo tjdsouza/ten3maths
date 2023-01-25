@@ -11,7 +11,8 @@ Learn more about TEN3 and the educational work they do at [ten3.org](https://owl
 If you have a stable internet connection, play in the browser by clicking [here](https://tjdsouza.github.io/ten3maths/index.html). To start a new session (reset the game), simply open the link again.
 
 ### Offline Browser
-To use from a PC Offline, pull this repository and open "index.html" in your browser. To reset the session data, simply reopen index.html.
+To use from a PC Offline, download the [zip file](https://owls.technology:9213/JSPWiki/attach/FEP.Downloads/TEN3Maths.zip) of the most recent version.
+Unpack the `.zip` file on ten3.org and open "index.html" in your browser. To reset the session data, simply reopen index.html.
 
 ### Android
 From a computer or over the internet, move the APK to the downloads file, then open it to install and launch the mobile application.
@@ -56,7 +57,7 @@ Unfortunately, while Apple does offer free developer licenses to non-profits wit
 
 
 ## Grade-Level Notes
-On the starting page, the app prompts the user to select a grade level, then redirects them to choose an operation (+, -, ×, or ÷) before starting the game. At any point during the game, the user can change grades by returning to the home screen using the top left corner, or change operations by clicking the operations menu in the top right corner
+On the starting page, the app prompts the user to select a grade level, then redirects them to choose an operation (+, -, ×, or ÷) before starting the game. At any point during the game, the user can change grades by returning to the home screen using the top left corner, or change operations by clicking the operations menu in the top right corner.
 
 The following grade-level expectations are based on Singaporean research of mathematics for primary school-aged children. Keep in mind that some problems will be easy enough for a student to calculate mentally, but others might be difficult enough that a student would want to write, draw, or use physical objects to reason throught the problem. We recommend having students work until they have answered 7-8 of the last 10 problems correctly.
 
